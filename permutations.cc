@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "permutations.h"
+#include "Files.h"
 using namespace std;
 
 int main(){
